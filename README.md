@@ -20,6 +20,6 @@ An Exploratory Data Analysis (EDA) project in Python analyzing the impact of COV
 
 ## 🚀 Quick Start
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/Unemployment-Analysis-India.git](https://github.com/YOUR_GITHUB_USERNAME/Unemployment-Analysis-India.git)
+git clone [https://github.com/Padam318/Unemployment-Analysis-India.git](https://github.com/Padam318/Unemployment-Analysis-India.git)
 pip install pandas numpy matplotlib seaborn
 jupyter notebook
