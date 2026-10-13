@@ -18,8 +18,3 @@ An Exploratory Data Analysis (EDA) project in Python analyzing the impact of COV
 4. **Correlation Heatmap:** Relationship between Unemployment, Employment, and Labour Participation.
 5. **Pre vs Post COVID Bar Comparison:** Labour Participation Rate before vs after March 2020.
 
-## 🚀 Quick Start
-```bash
-git clone [https://github.com/Padam318/Unemployment-Analysis-India.git](https://github.com/Padam318/Unemployment-Analysis-India.git)
-pip install pandas numpy matplotlib seaborn
-jupyter notebook
